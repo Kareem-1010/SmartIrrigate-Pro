@@ -1,4 +1,4 @@
-# 🌱 SmartIrrigate Pro# 🌱 SmartIrrigate Pro# 🌱 SmartIrrigate Pro# 🌱 SmartIrrigate Pro# 🌱 SmartIrrigate Pro - IoT Soil Irrigation System# 🌱 SmartIrrigate Pro - IoT Soil Irrigation System
+🌱 SmartIrrigate Pro - IoT Soil Irrigation System# 🌱 SmartIrrigate Pro - IoT Soil Irrigation System
 
 
 
@@ -2568,3 +2568,4 @@ If you find this project useful, please consider giving it a ⭐!
 [Report Bug](https://github.com/yourusername/smartirrigate/issues) • [Request Feature](https://github.com/yourusername/smartirrigate/issues) • [Documentation](docs/)
 
 </div>
+
