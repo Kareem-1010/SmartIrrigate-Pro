@@ -1,4 +1,4 @@
-# 🌱 SmartIrrigate Pro# 🌱 SmartIrrigate Pro# 🌱 SmartIrrigate Pro# 🌱 SmartIrrigate Pro# 🌱 SmartIrrigate Pro - IoT Soil Irrigation System# 🌱 SmartIrrigate Pro - IoT Soil Irrigation System
+🌱 SmartIrrigate Pro - IoT Soil Irrigation System# 🌱 SmartIrrigate Pro - IoT Soil Irrigation System
 
 
 
@@ -18,11 +18,11 @@
 
 
 
-## 🌐 Live Demo[![Platform](https://img.shields.io/badge/platform-ESP32-green)](https://www.espressif.com/en/products/socs/esp32)
+##  Live Demo[![Platform](https://img.shields.io/badge/platform-ESP32-green)](https://www.espressif.com/en/products/socs/esp32)
 
 
 
-**[🚀 View Live Dashboard](https://YOUR-USERNAME.github.io/smartirrigate-pro/)** *(Update after deployment)*[![License](https://img.shields.io/badge/license-MIT-orange)](LICENSE)
+**[ View Live Dashboard](https://YOUR-USERNAME.github.io/smartirrigate-pro/)** *(Update after deployment)*[![License](https://img.shields.io/badge/license-MIT-orange)](LICENSE)
 
 
 
@@ -34,7 +34,7 @@
 
 
 
-## 📋 Overview---
+##  Overview---
 
 
 
@@ -42,15 +42,15 @@ SmartIrrigate Pro is an intelligent IoT soil monitoring system featuring:![Platf
 
 
 
-- 🧠 **TensorFlow Lite ML** running on ESP32 (no cloud required)## 🌐 Live Demo
+-  **TensorFlow Lite ML** running on ESP32 (no cloud required)## 🌐 Live Demo
 
-- 📊 **Real-time Dashboard** with animated gauges and charts  
+-  **Real-time Dashboard** with animated gauges and charts  
 
-- 🌡️ **Multi-Sensor** monitoring (DHT11 + Soil Moisture)![License](https://img.shields.io/badge/license-MIT-orange)
+-  **Multi-Sensor** monitoring (DHT11 + Soil Moisture)![License](https://img.shields.io/badge/license-MIT-orange)
 
-- 🎭 **Dual Mode**: Works with real hardware OR as online demo
+-  **Dual Mode**: Works with real hardware OR as online demo
 
-- 📱 **Responsive Design** with beautiful glassmorphism UI**[🚀 View Live Dashboard →](https://YOUR-USERNAME.github.io/smartirrigate-pro/)**
+-  **Responsive Design** with beautiful glassmorphism UI**[🚀 View Live Dashboard →](https://YOUR-USERNAME.github.io/smartirrigate-pro/)**
 
 
 
@@ -58,31 +58,31 @@ SmartIrrigate Pro is an intelligent IoT soil monitoring system featuring:![Platf
 
 
 
-## ✨ Features*Running in demo mode with simulated realistic data for showcase. Deploy instructions below.*
+##  Features*Running in demo mode with simulated realistic data for showcase. Deploy instructions below.*
 
 
 
 ### **Hardware Mode** (Local Network)---![Version](https://img.shields.io/badge/version-2.1.0-blue)AI-powered autonomous soil irrigation system with real-time monitoring and TensorFlow Lite predictions.<div align="center">
 
-- 🔗 Connects to ESP32 via WiFi
+-  Connects to ESP32 via WiFi
 
-- 📡 Real-time sensor data (DHT11 + Soil Moisture)---
+-  Real-time sensor data (DHT11 + Soil Moisture)---
 
-- 🧠 TensorFlow Lite predictions (0-94 units)
+-  TensorFlow Lite predictions (0-94 units)
 
-- 📈 Live charts and gauges
+-  Live charts and gauges
 
 
 
 ### **Demo Mode** (GitHub Pages)## 📋 Overview
 
-- 🎭 Auto-activates on GitHub Pages
+-  Auto-activates on GitHub Pages
 
-- 📊 Realistic simulated data## 📋 Overview![Platform](https://img.shields.io/badge/platform-ESP32-green)
+-  Realistic simulated data## 📋 Overview![Platform](https://img.shields.io/badge/platform-ESP32-green)
 
-- ✅ All UI features work
+-  All UI features work
 
-- 🌐 No backend requiredSmartIrrigate Pro is an intelligent soil monitoring system featuring:
+-  No backend requiredSmartIrrigate Pro is an intelligent soil monitoring system featuring:
 
 
 
@@ -90,11 +90,11 @@ SmartIrrigate Pro is an intelligent IoT soil monitoring system featuring:![Platf
 
 
 
-## 🛠️ Hardware- 🧠 **TensorFlow Lite ML** running on ESP32 (no cloud required)
+##  Hardware-  **TensorFlow Lite ML** running on ESP32 (no cloud required)
 
 
 
-- **ESP32 DevKit v1** - Main controller- 📊 **Real-time Dashboard** with animated gauges and chartsSmartIrrigate Pro is an intelligent soil monitoring system that uses **TensorFlow Lite** machine learning running directly on ESP32 hardware to predict optimal watering amounts. The system features a beautiful real-time web dashboard with live sensor data, interactive charts, and AI-powered irrigation recommendations.![License](https://img.shields.io/badge/license-MIT-orange)
+- **ESP32 DevKit v1** - Main controller-  **Real-time Dashboard** with animated gauges and chartsSmartIrrigate Pro is an intelligent soil monitoring system that uses **TensorFlow Lite** machine learning running directly on ESP32 hardware to predict optimal watering amounts. The system features a beautiful real-time web dashboard with live sensor data, interactive charts, and AI-powered irrigation recommendations.![License](https://img.shields.io/badge/license-MIT-orange)
 
 - **DHT11** - Temperature & humidity sensor
 
@@ -102,188 +102,11 @@ SmartIrrigate Pro is an intelligent IoT soil monitoring system featuring:![Platf
 
 - **NodeMCU ESP8266** *(optional)* - Chassis controller
 
-- 🎭 **Dual Mode**: Works with real hardware + GitHub Pages demo
+-  **Dual Mode**: Works with real hardware + GitHub Pages demo
 
 ### **Pin Connections**
 
-```- 📱 **Responsive Design** with glassmorphism UI
-
-ESP32:
-
-├── DHT11 Data → GPIO 4**Key Features:**
-
-├── Soil RX → GPIO 16  
-
-├── Soil TX → GPIO 17---
-
-└── Power: 5V + GND
-
-```- 🧠 On-device ML inference (no cloud required)
-
-
-
----## ✨ Features
-
-
-
-## 🚀 Quick Start- 📊 Real-time monitoring dashboard---![Version](https://img.shields.io/badge/version-2.1.0-blue)![SmartIrrigate Pro](https://img.shields.io/badge/SmartIrrigate-Pro-00f2fe?style=for-the-badge)
-
-
-
-### **Option 1: View Demo (GitHub Pages)**### **Hardware Mode** (Local Network)
-
-
-
-Your project is **ready to deploy** to GitHub Pages!- 🔗 Connects to ESP32 via WiFi- 🌡️ Multi-sensor support (DHT11 + Soil Moisture)
-
-
-
-#### **Deploy Steps:**- 📡 Real-time sensor data from DHT11 and soil moisture sensor
-
-
-
-1. **Push to GitHub:**- 🧠 TensorFlow Lite predictions (0-94 units)- 📈 Historical data visualization
-
-   ```bash
-
-   cd C:\Users\Kareem\Desktop\Iot_Soil_Irrigation_Project- 📈 Live updating charts and gauges
-
-   git init
-
-   git add .- 🌐 HTTP API with CORS support- 🔒 Display-only mode (recommendations, not automatic)
-
-   git commit -m "Initial commit"
-
-   git remote add origin https://github.com/YOUR-USERNAME/smartirrigate-pro.git
-
-   git push -u origin main
-
-   ```### **Demo Mode** (GitHub Pages)## 📋 Overview![Platform](https://img.shields.io/badge/platform-ESP32-green)![Version](https://img.shields.io/badge/version-2.0.0-7b2ff7?style=for-the-badge)
-
-
-
-2. **Enable GitHub Pages:**- 🎭 Automatically activates on GitHub Pages
-
-   - Go to your repo → **Settings** → **Pages**
-
-   - Source: **Deploy from a branch**- 📊 Realistic simulated data for showcase---
-
-   - Branch: **main** / **(root)**
-
-   - Click **Save**- ✅ All UI features fully functional
-
-
-
-3. **Access your site:**- 🚀 Perfect for portfolio/presentations
-
-   - Wait 2-3 minutes
-
-   - Visit: `https://YOUR-USERNAME.github.io/smartirrigate-pro/`- 🌐 No backend required
-
-   - Demo mode activates automatically! 🎉
-
-## ✨ Features
-
-**That's it!** Your dashboard will show realistic simulated data.
-
----
-
----
-
-SmartIrrigate Pro is an intelligent soil monitoring system that uses TensorFlow Lite machine learning to predict optimal watering amounts. The system features a beautiful real-time dashboard with live sensor data, historical charts, and AI-powered irrigation recommendations.![License](https://img.shields.io/badge/license-MIT-orange)![License](https://img.shields.io/badge/license-MIT-00ff88?style=for-the-badge)
-
-### **Option 2: Use with Real ESP32**
-
-## 🛠️ Hardware
-
-#### **Step 1: Install Arduino Libraries**
-
-- DHT sensor library (Adafruit)- 🧠 **TensorFlow Lite ML** - Real-time predictions on ESP32
-
-- ArduinoJson (v6.x)
-
-- WiFi & WebServer (built-in)### **Components**
-
-
-
-#### **Step 2: Configure WiFi**- **ESP32 DevKit v1** - Main controller- 📊 **Live Dashboard** - Animated gauges and charts
-
-Edit `ESP32_nodemcu_firmware/ESP32_Firmware.ino`:
-
-```cpp- **DHT11** - Temperature & humidity sensor
-
-const char* ssid = "YourWiFiName";
-
-const char* password = "YourPassword";- **Capacitive Soil Moisture Sensor** - Corrosion-resistant- 🌡️ **DHT11 Sensor** - Temperature & humidity monitoring
-
-```
-
-- **NodeMCU ESP8266** *(optional)* - Chassis controller
-
-#### **Step 3: Upload Firmware**
-
-1. Open `ESP32_nodemcu_firmware/ESP32_Firmware.ino`- 💧 **Soil Moisture** - Capacitive sensor via UART---
-
-2. Select: **ESP32 Dev Module**
-
-3. Upload to ESP32### **Pin Connections**
-
-4. Open Serial Monitor (115200 baud)
-
-5. Note the IP address```- 📈 **Historical Charts** - Track sensor trends over time
-
-
-
-#### **Step 4: Configure Dashboard**ESP32:
-
-Edit `js/config.js`:
-
-```javascript├── DHT11 Data → GPIO 4- 📱 **Responsive Design** - Beautiful glassmorphism UI
-
-ESP32_IP: '192.168.x.xxx',  // Your ESP32 IP
-
-```├── Soil RX → GPIO 16  
-
-
-
-#### **Step 5: Launch Dashboard**├── Soil TX → GPIO 17- 🔒 **Display Mode** - Water recommendations (0-94 units)
-
-```bash
-
-python start_dashboard.py└── Power: 5V + GND
-
-```
-
-Opens at: http://localhost:8000/index.html```- 🌐 **HTTP API** - RESTful endpoints with CORS support## ✨ Features---**AI-Powered Autonomous Soil Irrigation System with Real-Time Monitoring**
-
-
-
----
-
-
-
-## 📡 API Endpoints### **Calibration**
-
-
-
-### **GET /api/sensors**- **Dry Value**: 1877
-
-```json
-
-{- **Wet Value**: 1061---
-
-  "moisture": 45.2,
-
-  "temperature": 24.5,
-
-  "humidity": 65.3,
-
-  "timestamp": 1234567890---
-
-}
-
-```
-
+```-  **Responsive Design** with glassmorphism UI
 
 
 ### **GET /api/prediction**## 🚀 Quick Start## 🛠️ Hardware- 🧠 **Machine Learning** - TensorFlow Lite model running on ESP32
@@ -2568,3 +2391,4 @@ If you find this project useful, please consider giving it a ⭐!
 [Report Bug](https://github.com/yourusername/smartirrigate/issues) • [Request Feature](https://github.com/yourusername/smartirrigate/issues) • [Documentation](docs/)
 
 </div>
+
